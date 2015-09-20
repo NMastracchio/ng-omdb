@@ -1,0 +1,1 @@
+define(["require","exports","module","angular"],function(e,t,n){var r=e("angular"),i=r.module("npr-one",[]);i.run(function(e){}),n.exports=i});
